@@ -12,3 +12,4 @@ NUMBER2=2345
 
 SUM=$(($NUMBER1+$NUMBER2))
 echo "Total of $SUM" 
+echo "All the variables passed to the script:$@"
