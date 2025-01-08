@@ -14,4 +14,4 @@ user2=Ashik
 
 echo "$user1 :: Hi $user2,where are you ..?"
 echo "$user2:: Hey hello $user1, I am Pattikonda Kurnool, Where are you?"
-echo "$user1:: I am in Hyderbad $user2.
+echo "$user1:: I am in Hyderbad $user2"
