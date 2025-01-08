@@ -11,7 +11,7 @@ NUMBER=$1
 
 number=$1
 
-if[$number -gt 30]
+if [ $number -gt 30 ]
 then
 echo "Given $number is greter then 30"
 else
